@@ -1,1 +1,3 @@
-# Pujan Srivastava
+# Introduction 
+All permalinks should ends with slash "/"
+

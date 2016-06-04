@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AppKubos - Articles</title><description>AppKubos</description><link>
+    http://www.appkubos.com</link><item><title>Calendar For Next Four Months</title><description>&lt;p&gt;Command&lt;/p&gt;
+
+</description><pubDate>Mon, 30 May 2016 00:00:00 +0700</pubDate><link>
+        http://www.appkubos.com/etc/calendar-next-4-months/</link><guid isPermaLink="true">http://www.appkubos.com/etc/calendar-next-4-months/</guid></item><item><title>SOAP vs REST</title><description>&lt;h2 id=&quot;basic-concepts&quot;&gt;Basic Concepts&lt;/h2&gt;
+
+</description><pubDate>Fri, 29 Apr 2016 00:00:00 +0700</pubDate><link>
+        http://www.appkubos.com/javaee/ws/soapvsrest/</link><guid isPermaLink="true">http://www.appkubos.com/javaee/ws/soapvsrest/</guid></item><item><title>Regex</title><description>&lt;pre&gt;&lt;code&gt;  &amp;lt;div ng-controller=&quot;GlobalsCtrl&quot;&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;div ng-controller=&quot;UiDirectorCtrl&quot; ng-init=&quot;referenceModel.show=false&quot;&gt;
+    &lt;div ng-controller=&quot;LightRegexMetaCtrl&quot;&gt;
+    &lt;div ng-controller=&quot;LightRegexCtrl&quot;&gt;
+    &lt;div ng-controller=&quot;LightNFACtrl&quot;&gt;
+    &lt;div ng-controller=&quot;LightTestStringCtrl&quot;&gt;
+    &lt;div ng-controller=&quot;UnitTestCtrl&quot;&gt;
+    &lt;div ng-controller=&quot;RegexApiCtrl&quot;&gt;
+    &lt;div ng-controller=&quot;GenCtrl&quot;&gt;
+      &lt;div ng-controller=&quot;RegexInitCtrl&quot;&gt;
+      &lt;div ng-controller=&quot;RegexInitGETCtrl&quot;&gt;
+      &lt;div ng-controller=&quot;RegexInitGlobalCtrl&quot;&gt;
+      &lt;div ng-controller=&quot;RegexInitHistoryCtrl&quot;&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      
+          
+          
+          &lt;div class=&quot;width-restricted&quot;&gt;
+            &lt;div class=&quot;sidepadded&quot;&gt;
+              
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+</description><pubDate>Thu, 03 Mar 2016 00:00:00 +0700</pubDate><link>
+        http://www.appkubos.com/web/regex/</link><guid isPermaLink="true">http://www.appkubos.com/web/regex/</guid></item><item><title>Spring Security Credentails See Password at Session</title><description>&lt;p&gt;Manytimes, we require to provide username and password in spring security to fetch certain data with credetials and we do not want user to enter his or her credentials again after login.&lt;/p&gt;
+
+</description><pubDate>Tue, 01 Mar 2016 00:00:00 +0700</pubDate><link>
+        http://www.appkubos.com/javaee/spring/security/credential/</link><guid isPermaLink="true">http://www.appkubos.com/javaee/spring/security/credential/</guid></item><item><title>Curl Command</title><description>&lt;p&gt; &lt;/p&gt;
+
+</description><pubDate>Tue, 01 Mar 2016 00:00:00 +0700</pubDate><link>
+        http://www.appkubos.com/etc/curl/</link><guid isPermaLink="true">http://www.appkubos.com/etc/curl/</guid></item><item><title>HTTP/2 Explained</title><description>&lt;p&gt;HTTP/2 is comprised of two specifications:
+    * Hypertext Transfer Protocol version 2 - RFC7540
+    * HPACK - Header Compression for HTTP/2 - RFC7541&lt;/p&gt;
+
+</description><pubDate>Thu, 04 Feb 2016 00:00:00 +0700</pubDate><link>
+        http://www.appkubos.com/etc/http2/</link><guid isPermaLink="true">http://www.appkubos.com/etc/http2/</guid></item><item><title>Spring Security Configuration with Form Login</title><description>&lt;h2 id=&quot;prepare-login-page&quot;&gt;Prepare Login Page&lt;/h2&gt;
+&lt;p&gt;/login.jsp&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;form&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;action=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;&amp;lt;c:url value=&amp;#39;/j_spring_security_check&amp;#39; /&amp;gt;&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;method=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;post&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+   &lt;span class=&quot;nt&quot;&gt;&amp;lt;input&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;text&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;name=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;username&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;value=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;placeholder=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;Username&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;/&amp;gt;&lt;/span&gt;
+   &lt;span class=&quot;nt&quot;&gt;&amp;lt;input&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;password&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;value=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;name=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;password&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;placeholder=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;Password&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;/&amp;gt;&lt;/span&gt;
+   &lt;span class=&quot;nt&quot;&gt;&amp;lt;button&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;submit&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Sign In&lt;span class=&quot;nt&quot;&gt;&amp;lt;/button&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/form&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+</description><pubDate>Sat, 23 Jan 2016 00:00:00 +0700</pubDate><link>
+        http://www.appkubos.com/javaee/spring/configuration/</link><guid isPermaLink="true">http://www.appkubos.com/javaee/spring/configuration/</guid></item><item><title>JBoss Fix for JSP</title><description>&lt;p&gt;Eclipse generally does not publish JSP file changes automatically for JBoss server (EAP/Wildfly).
+You need to make few changes to the configuration file if you are developing project using JSP.&lt;/p&gt;
+
+</description><pubDate>Thu, 14 Jan 2016 00:00:00 +0700</pubDate><link>
+        http://www.appkubos.com/javaee/jboss/jspfix/</link><guid isPermaLink="true">http://www.appkubos.com/javaee/jboss/jspfix/</guid></item><item><title>Python Tutorial</title><description>&lt;p&gt; &lt;/p&gt;
+
+</description><pubDate>Thu, 07 Jan 2016 00:00:00 +0700</pubDate><link>
+        http://www.appkubos.com/python/tutorial/</link><guid isPermaLink="true">http://www.appkubos.com/python/tutorial/</guid></item><item><title>How to Run System Commands in Java</title><description>&lt;p&gt;The &lt;strong&gt;java.lang.ProcessBuilder.command(String… command)&lt;/strong&gt; method Sets this process builder’s operating system program and arguments. This is a convenience method that sets the command to a string list containing the same strings as the command array, in the same order. 
+In order to execute this command you can supply as argument as you want and at the same time you can also provide command to execute in the directory (here it is /Users/pujan/somedir)&lt;/p&gt;
+
+</description><pubDate>Thu, 07 Jan 2016 00:00:00 +0700</pubDate><link>
+        http://www.appkubos.com/javaee/processbuilder/</link><guid isPermaLink="true">http://www.appkubos.com/javaee/processbuilder/</guid></item><item><title>Microservices Explained</title><description>&lt;h2 id=&quot;monolithic-architecture&quot;&gt;Monolithic Architecture&lt;/h2&gt;
+&lt;p&gt;In monolithic architectural design we create a big cumbersome app with all modules tightly coupled inside a single ear or war like apps, which is typically deployed on a web or app server. This encounters multiple problems here:&lt;/p&gt;
+
+</description><pubDate>Thu, 07 Jan 2016 00:00:00 +0700</pubDate><link>
+        http://www.appkubos.com/integration/microservices/</link><guid isPermaLink="true">http://www.appkubos.com/integration/microservices/</guid></item><item><title>CSV Creator using Jackson</title><description>&lt;p&gt; &lt;/p&gt;
+
+</description><pubDate>Wed, 06 Jan 2016 00:00:00 +0700</pubDate><link>
+        http://www.appkubos.com/javaee/jackson/csv-creator/</link><guid isPermaLink="true">http://www.appkubos.com/javaee/jackson/csv-creator/</guid></item><item><title>OAuth2 Architecture</title><description>&lt;p&gt;OAuth2 is an authorization framework that enables applications to obtain limited access to user accounts on an HTTP service, such as Facebook, GitHub, Twitter etc. It works by delegating user authentication to the service that hosts the user account, and authorizing third-party applications to access the user account. OAuth 2 provides authorization flows for web and desktop applications, and mobile devices. OAuth2 is based on the RFC 6749 [&lt;a title=&quot;RFC6749&quot; href=&quot;https://tools.ietf.org/html/rfc6749&quot;&gt;The OAuth 2.0 Authorization Framework&lt;/a&gt;].&lt;/p&gt;
+
+</description><pubDate>Wed, 06 Jan 2016 00:00:00 +0700</pubDate><link>
+        http://www.appkubos.com/integration/oauth2/</link><guid isPermaLink="true">http://www.appkubos.com/integration/oauth2/</guid></item><item><title>TShark Commands</title><description>&lt;p&gt; &lt;/p&gt;
+
+</description><pubDate>Wed, 06 Jan 2016 00:00:00 +0700</pubDate><link>
+        http://www.appkubos.com/etc/tshark-commands/</link><guid isPermaLink="true">http://www.appkubos.com/etc/tshark-commands/</guid></item><item><title>Latency Comparison</title><description>&lt;p&gt; &lt;/p&gt;
+
+</description><pubDate>Wed, 06 Jan 2016 00:00:00 +0700</pubDate><link>
+        http://www.appkubos.com/etc/latency/</link><guid isPermaLink="true">http://www.appkubos.com/etc/latency/</guid></item><item><title>Python File Handling</title><description>&lt;p&gt;There are multiple ways of file reading and writing. This post explains few of them. It also contains shutil which is useful.&lt;/p&gt;
+
+</description><pubDate>Tue, 05 Jan 2016 00:00:00 +0700</pubDate><link>
+        http://www.appkubos.com/python/file-handling/</link><guid isPermaLink="true">http://www.appkubos.com/python/file-handling/</guid></item><item><title>Python Dictionary</title><description>&lt;p&gt;Python dictionary is faster as order is not maintained. 
+Keys are unique within a dictionary while values may not be. The values of a dictionary can be of any type, but the keys must be of an immutable data type such as strings, numbers, or tuples.&lt;/p&gt;
+
+</description><pubDate>Tue, 05 Jan 2016 00:00:00 +0700</pubDate><link>
+        http://www.appkubos.com/python/dictionary/</link><guid isPermaLink="true">http://www.appkubos.com/python/dictionary/</guid></item><item><title>Scala Introduction</title><description>
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;  &lt;span class=&quot;n&quot;&gt;scala&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+</description><pubDate>Tue, 05 Jan 2016 00:00:00 +0700</pubDate><link>
+        http://www.appkubos.com/etc/scala-introduction/</link><guid isPermaLink="true">http://www.appkubos.com/etc/scala-introduction/</guid></item><item><title>Run Groovy from Java</title><description>&lt;p&gt;&lt;i class=&quot;conum&quot;&gt;1&lt;/i&gt;
+First Compile Groovy Script which may contains other groovy classes or scripts&lt;/p&gt;
+
+</description><pubDate>Tue, 05 Jan 2016 00:00:00 +0700</pubDate><link>
+        http://www.appkubos.com/etc/groovy-run-from-java/</link><guid isPermaLink="true">http://www.appkubos.com/etc/groovy-run-from-java/</guid></item><item><title>SSH without Password</title><description>&lt;p&gt;There are the situations when you want to login to server frequently and you are authorized as always and you are bored to entering password always even it is your virtual machines.&lt;/p&gt;
+
+</description><pubDate>Tue, 05 Jan 2016 00:00:00 +0700</pubDate><link>
+        http://www.appkubos.com/etc/ssh-without-password/</link><guid isPermaLink="true">http://www.appkubos.com/etc/ssh-without-password/</guid></item><item><title>Pujan Srivastava</title><description>&lt;blockquote&gt;
+  &lt;p&gt;Pujan is responsible for leading major initiatives within product management team and for contributing to research product development, product evangelization, training, and maintenance. He has strong mathematical and computer science background. He is self-motivated, enthusiastic and result oriented.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+</description><pubDate>Tue, 05 Jan 2016 00:00:00 +0700</pubDate><link>
+        http://www.appkubos.com/pujan/</link><guid isPermaLink="true">http://www.appkubos.com/pujan/</guid></item><item><title>JAX-WS Webservices using Annotations</title><description>&lt;p&gt; &lt;/p&gt;
+
+</description><pubDate>Mon, 04 Jan 2016 00:00:00 +0700</pubDate><link>
+        http://www.appkubos.com/javaee/jaxws/sample-webservice/</link><guid isPermaLink="true">http://www.appkubos.com/javaee/jaxws/sample-webservice/</guid></item><item><title>Java Thread Quickies</title><description>&lt;p&gt; &lt;/p&gt;
+
+</description><pubDate>Mon, 04 Jan 2016 00:00:00 +0700</pubDate><link>
+        http://www.appkubos.com/javaee/threads/quickies/</link><guid isPermaLink="true">http://www.appkubos.com/javaee/threads/quickies/</guid></item><item><title>How to Avoid Null Pointer Exception</title><description>&lt;h2 id=&quot;minimize-the-use-of-null-in-assignment&quot;&gt;Minimize the use of ‘null’ in assignment&lt;/h2&gt;
+
+</description><pubDate>Mon, 04 Jan 2016 00:00:00 +0700</pubDate><link>
+        http://www.appkubos.com/javaee/how-to-avoid-null-pointer-exception/</link><guid isPermaLink="true">http://www.appkubos.com/javaee/how-to-avoid-null-pointer-exception/</guid></item><item><title>Cross Origin Servlet</title><description>&lt;p&gt;If the client origin is found in our list then give access if you don’t want to check for origin and want to allow access 
+to all incoming request then change the line to this response.setHeader(“Access-Control-Allow-Origin”, “*”);&lt;/p&gt;
+
+</description><pubDate>Mon, 04 Jan 2016 00:00:00 +0700</pubDate><link>
+        http://www.appkubos.com/javaee/cross-origin-header/</link><guid isPermaLink="true">http://www.appkubos.com/javaee/cross-origin-header/</guid></item><item><title>JBoss JNDI</title><description>&lt;h3 id=&quot;how-to-set-ejb-jndi-in-jboss-7-or-wildfly-8-or-jboss-eap-6&quot;&gt;How to set EJB JNDI in JBoss 7 or Wildfly 8+ or JBoss EAP 6+&lt;/h3&gt;
+
+</description><pubDate>Sun, 03 Jan 2016 00:00:00 +0700</pubDate><link>
+        http://www.appkubos.com/javaee/jboss/jndi/</link><guid isPermaLink="true">http://www.appkubos.com/javaee/jboss/jndi/</guid></item><item><title>JBoss Commands Deploy, Restart for standalone or domain mode</title><description>&lt;h3 id=&quot;allows-access-over-network-all-interfaces&quot;&gt;Allows access over network (all interfaces)&lt;/h3&gt;
+
+</description><pubDate>Sun, 03 Jan 2016 00:00:00 +0700</pubDate><link>
+        http://www.appkubos.com/javaee/jboss/commands/</link><guid isPermaLink="true">http://www.appkubos.com/javaee/jboss/commands/</guid></item></channel></rss>
